@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LTFGRS"]
+	path = LTFGRS
+	url = https://github.com/emilmip/ltfgrs
 [submodule "LTFHPlus"]
 	path = LTFHPlus
 	url = https://github.com/emilmip/ltfhplus
